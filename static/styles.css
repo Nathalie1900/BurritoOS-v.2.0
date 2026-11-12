@@ -1,0 +1,60 @@
+nav .navbar-brand
+{
+    font-size: xx-large;
+    color: #ff5fa2;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 40px;
+    background: #fafafa;
+}
+
+h1 {
+    color: #ff5fa2;
+}
+
+.crisis-button {
+    width: 100%;
+    font-size: 1.3rem;
+    padding: 15px;
+    margin-bottom: 15px;
+    background: #ffe6f0;
+}
+
+.orange-button {
+    background: #ffe8cc;
+}
+
+.yellow-button {
+    background: #fff9c4;
+}
+
+.crisis-button.done {
+    background: #c8f7c5;
+    border-color: #2ecc71;
+}
+
+.orange-button.done {
+    background: #c8f7c5;
+    border-color: #2ecc71;
+}
+
+.yellow-button.done {
+    background: #c8f7c5;
+    border-color: #2ecc71;
+}
+
+.identity-card {
+    width: 30%;
+    font-size: 1.1rem;
+    padding: 10px;
+    margin-bottom: 15px;
+    background: #ffe8cc;
+}
+
+.big-button {
+    font-size: 0.9rem;
+    padding: 5px;
+    margin-bottom: 10px;
+}
